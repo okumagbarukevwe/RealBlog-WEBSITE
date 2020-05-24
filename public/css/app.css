@@ -1,0 +1,74 @@
+.push-center {
+    width: 50%;
+}
+
+.navbar-default {
+    background-color: black;
+    border-color: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-weight: 600;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgResiz{
+    padding: 5px;
+    width: 100%;   
+}
+
+.date21 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+    background-color: transparent;
+}
+
+.border {
+    height: 20px;
+    border-left: 2px solid white;
+}
+
+#colorGreen {
+    color: green;
+}
+
+.smaller{
+    width:20px;
+    margin-top: -6px;
+}
+
+.brandImage {
+    width:210px;
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.blogsContainer {
+    margin-top: 30px;
+}
+
+.btn-red {
+    color: white;
+    background-color: red;
+}
+
+.bodyContainer{
+    width:95%;
+    padding: 30px;
+    margin-right: 250px;
+}
+
+.eachBlog {
+    
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover  {
+    color: red;
+}
